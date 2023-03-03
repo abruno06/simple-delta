@@ -1,0 +1,19 @@
+{
+  "name": "simple-delta",
+  "version": "0.0.3",
+  "description": "This is a simple object delta module, inpire from merge module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurelien Bruno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abruno06/simple-delta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abruno06/simple-delta/issues"
+  },
+  "homepage": "https://github.com/abruno06/simple-delta#readme",
+  "main": "delta.js"
+}
