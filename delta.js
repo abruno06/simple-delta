@@ -18,7 +18,7 @@ function isPlainObject(input) {
 main.isPlainObject = isPlainObject;
 
 function clone(input) {
-	console.log(input)
+	//console.log(input)
     if (Array.isArray(input)) {
         let output = [];
         for (const index of input)
